@@ -13,7 +13,7 @@ st.set_page_config(page_title='Snowflake', layout='wide',
 )
 
 # 페이지 로고 ㅍ
-st.image("./logo/RimcMonlogo.png", use_column_width=True )
+st.image("./static/logo/RimcMonlogo.png", use_column_width=True )
 
 st.snow()
 
